@@ -7,7 +7,7 @@ int main()
    for(n = 1; n <= 6; n++) 
    {  
       
-        if(n%1 == 0) 
+        if(n%2 == 1) 
         { 
             
            printf("%d ",n); 
