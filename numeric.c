@@ -1,5 +1,5 @@
 #include<stdio.h>
-void main()
+int main()
 {
     char str[100];
     int i,length = 0,c = 0;
@@ -15,5 +15,5 @@ void main()
             }
     }
     printf(" %d%d numbers is a string",c,length);
-    
+    return 0;
 }
