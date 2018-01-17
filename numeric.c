@@ -14,6 +14,6 @@ void main()
                   c++;
             }
     }
-    printf(" %d%d numbers in a string",c,length);
+    printf(" %d%d numbers is a string",c,length);
     
 }
