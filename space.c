@@ -2,9 +2,7 @@
 main()
 {
 int i,s;
-char x[10];
-printf("enter the string");
-scanf("%s",&x[i]);
+char x[10]="rose";
 for(i=0;x[i]<=0;i++)
 {
 if(x[i]==' ')
