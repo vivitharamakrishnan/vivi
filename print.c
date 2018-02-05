@@ -8,7 +8,7 @@ printf("%d",n);
 }
 else
 {
-a=n+1;
+a=n-1;
 }
 printf("%d",a);
 return 0;
