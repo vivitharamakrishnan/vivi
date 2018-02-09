@@ -1,8 +1,8 @@
 #include<stdio.h>
 int main()
 {
-int n=4;
-if(n<=10||n>=1)
+int n=4,a=1,b=10;
+if(n>=a||n<=b)
 {
 printf("yes\n");
 }
