@@ -1,9 +1,11 @@
 #include<stdio.h>
-main()
+int main()
 {
-int x[40],i,max;
-for(i=0;i<10;i++)
-{
-scanf("%d",&x[i])
+int a,b,c,n=16;
+a=n/10;
+b=a+1;
+c=b*10;
+printf("%d",c);
+return 0;
 }
-for(
+
