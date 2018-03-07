@@ -1,13 +1,14 @@
 #include<stdio.h>
 int main()
 {
-int n;
+int n,num;
 printf("enter the number\n");
 scanf("%d",&n);
 while(n>0)
 {
-n=n/2;
-printf("%d",n);
+num=n/2;
+printf("%d",num);
+  n=n/2;
 }
 return 0;
 }
