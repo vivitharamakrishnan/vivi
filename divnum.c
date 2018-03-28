@@ -6,11 +6,11 @@ printf("enter two numbers");
 scanf("%d%d",&a,&b);
 if(a>b)
 {
-g=a;
+g=b;
 }
 else
 {
-g=b;
+g=a;
 }
 for(i=2;i<g;i++)
 {
